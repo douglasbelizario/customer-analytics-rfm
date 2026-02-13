@@ -85,4 +85,4 @@ Classificação de clientes em grupos estratégicos como:
 - Distribuição estratégica da base de clientes
 ---
 
-![Dashboard Analítico](dashborad\dashboard_print.png)
+![Dashboard Analítico](dashboard/dashboard_print.png)
